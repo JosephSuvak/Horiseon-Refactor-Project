@@ -9,12 +9,12 @@ At the time of writing, this has a total of 5 commits.
                                   *https://github.com/JosephSuvak/Horiseon-Refactor-Project* [**Repo**]
 
 **What's been changed:**
-    1. The HTML file has been consolidated to what is required. Extra classes/ID's have been removed.
-    1. CSS consolidated: It's broken down by section and no longer re-uses code for differing classes.
-    1. The HTML file also utlizes proper HTML5 elements to designate sections, navigation, and articles.
-    1. The CSS selectors have been altered to reference these specific sections.
-    1. Added a class for standard copyright and trademark add-ins.
-    1. Title attribute no longer states Website. Instead, it shows 'Horiseon: Media Services'
+1. The HTML file has been consolidated to what is required. Extra classes/ID's have been removed.
+2. CSS consolidated: It's broken down by section and no longer re-uses code for differing classes.
+3. The HTML file also utlizes proper HTML5 elements to designate sections, navigation, and articles.
+4. The CSS selectors have been altered to reference these specific sections.
+5. Added a class for standard copyright and trademark add-ins.
+6. Title attribute no longer states Website. Instead, it shows 'Horiseon: Media Services'
 
 **Screenshot (Snagit Panoramic Picture not to proper scale - due to browser limitations):**
 
