@@ -18,5 +18,5 @@ At the time of writing, this has a total of 5 commits.
 
 **Screenshot (Snagit Panoramic Picture not to proper scale - due to browser limitations):**
 
-![Reflection of after changes](/assets/images/Horiseon-After-Refactor.jpg?raw=true "Horiseon Post-Refactor")
+![Reflection of after changes](/assets/images/Horiseon-After-Refactor.jpg)
 
